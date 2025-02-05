@@ -24,8 +24,8 @@ import java.util.Set;
 
 
 /**
- * @author Guilherme Viteri <gviteri@ebi.ac.uk>
- * @author Kostas sidiropoulos <ksidiro@ebi.ac.uk>
+ * @author Guilherme Viteri (gviteri@ebi.ac.uk)
+ * @author Kostas sidiropoulos (ksidiro@ebi.ac.uk)
  * @author Antonio Fabregat
  */
 @SuppressWarnings({"unused", "WeakerAccess"})
