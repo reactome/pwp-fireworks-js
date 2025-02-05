@@ -13,7 +13,7 @@ import org.reactome.web.pwp.model.client.util.LruCache;
 import org.reactome.web.pwp.model.client.util.ResponseUtils;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class FireworksLoader implements ContentClientHandler.ObjectLoaded<DatabaseObject>,  RequestCallback {
 
